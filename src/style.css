@@ -1,0 +1,36 @@
+.logoClass {
+    background-image: url('./images/logo.png');
+}
+
+.loginClass {
+    margin-top: 20%
+}
+
+.productClass {
+    margin: 3px;
+    height : 350px;
+    border : 1px solid;
+    border-radius: 15px;
+}
+
+.filterClass {
+    text-align: center;
+    border: 1px solid;
+}
+
+.borderClass {
+    border-top: 1px solid;
+}
+.textCenter {
+    text-align: center;
+}
+
+.filterDataClass {
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+
+.marginClass {
+    margin: 5px;
+}
